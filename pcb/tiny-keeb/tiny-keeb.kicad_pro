@@ -441,7 +441,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "tiny-keeb.step",
+      "step": "tiny.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

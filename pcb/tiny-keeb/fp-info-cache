@@ -1,4 +1,4 @@
-23692015395255428
+23693748746664404
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2116,6 +2116,13 @@ tact sw push 6mm
 Button_Switch_THT
 SW_PUSH_6mm_H13mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=13mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_square_top
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 tact sw push 6mm
 0
 4
