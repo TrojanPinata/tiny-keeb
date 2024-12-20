@@ -1,3 +1,4 @@
+This is how many of each keycap you need:
 1u 	46
 1.25u	7
 1.5u	2
